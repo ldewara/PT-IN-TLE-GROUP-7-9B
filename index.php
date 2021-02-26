@@ -30,9 +30,9 @@
 <br>
 <br>
 <br>
-<font face = "typewriter", size = "1500", color = "beige"><b> <center> TODAY & </b></font></center>
+<font face = "typewriter", size = "1500", color = "beige"><b> <center> <a href="FOR TODAY.html">TODAY</a> & </b></font></center>
 <br>
-<font face = "typewriter", size = "1500", color = "beige"><b> <center> TOMORROW </b></font></center>
+<font face = "typewriter", size = "1500", color = "beige"><b> <center> <a href="FOR TOMORROW.html"> TOMORROW </a></b></font></center>
 <br>
 <center><font face = "edwardian script itcor", size = "3", color = "cyan"><b><u> HOPE  in  the  midst  of  a  STORM </u></b></font>
 <br>
